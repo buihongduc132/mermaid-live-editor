@@ -12,7 +12,7 @@
     "@fortawesome/fontawesome-free-webfonts": "^1.0.9",
     "antd": "^3.11.2",
     "js-base64": "^2.5.0",
-    "mermaid": "^8.0.0",
+    "mermaid": "^8.11.0",
     "moment": "^2.23.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
